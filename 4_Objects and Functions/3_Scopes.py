@@ -1,0 +1,5 @@
+print("Scopes: LEGB")
+print("\t1.Local: Inside current function.")
+print("\t2.Enclosing: Inside enclosing function.")
+print("\t3.Global: At the top level of module. e.g. sys, any function name.")
+print("\t4.Built-in: In the special builtins module.")
